@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dikittyonary</string>
+    <string name="app_first_run">first_run</string>
+    <string name="gambar_kitty">Gambar Kitty</string>
+    <string name="dikkityonary">diKITTYonary</string>
+    <string name="title_activity_dictionary">DictionaryActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Adam Mukharil Bachtiar</string>
+    <string name="nav_header_subtitle">adam@email.unikom.ac.id</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="english_indonesia"><![CDATA[English -> Indonesia]]></string>
+    <string name="indonesia_english"><![CDATA[Indonesia -> English]]></string>
+    <string name="hint_search_kata">Insert Your English Word</string>
+    <string name="words">Words</string>
+    <string name="meaning">Meaning</string>
+    <string name="title_bahasa">English to Indonesia</string>
+    <string name="title_bahasa_dua">Indonesia ke English</string>
+</resources>
